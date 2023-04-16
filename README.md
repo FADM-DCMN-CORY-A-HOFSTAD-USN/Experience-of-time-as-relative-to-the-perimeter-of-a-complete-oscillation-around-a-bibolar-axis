@@ -6,3 +6,5 @@ Decay throughout time is relative to destructive forces of being pushed and pull
 The human body experiences physical pressure and reacts with resistance or decay. An individual who lifts weights at the gym will see muscles increase in volume to accomidate larger radial oscillations to push back against external pressures. An individual who experiences stress at work, which results in increased blood pressure will decay and experience heart failure if physical exercise is not used to increase the available radius for oscillation of molecules within the body.
 
 Scientists and electricians often measure and observe what goes on outside an electric coil, such as how much energy goes into or out from a coil. The study of what exists within an electric coil and how it compares to what exists outside the same coil is rarely studied. Travel of time is possible via starting a path along the inside of an electric coil, the exiting the coil, traveling a distance from the axis of the coil, and then traveling back into the coil.
+
+Ref LearIS
