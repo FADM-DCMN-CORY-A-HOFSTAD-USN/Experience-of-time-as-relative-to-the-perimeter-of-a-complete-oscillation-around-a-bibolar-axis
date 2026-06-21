@@ -25,6 +25,18 @@ What is claimed is:
 
 4. An aerospace measurement system comprising:
    a central planetary body acting as a bipolar axis;
+
+6. A method for physically measuring temporal variance and signal decay relative to an oscillation perimeter, the method comprising:
+   establishing a central bipolar axis within a solid-state native hardware processor;
+   routing a first physical pathway for a moving particle at a first radial distance from the bipolar axis;
+   routing a second physical pathway for a moving particle at a second, greater radial distance from the bipolar axis;
+   injecting a synchronized digital hexadecimal signal into both the first and second pathways simultaneously;
+   throttling the execution cycle to an Extremely Low Frequency (ELF) baseline of approximately 7.83 Hz to enforce an identical angular velocity across both pathways; and
+   calculating the differential in temporal drift and data corruption between the signal exiting the first pathway and the signal exiting the second pathway.
+
+7. The method of claim 5, wherein calculating the differential comprises measuring the accumulated hardware fatigue and critical decay resulting from the increased load required to maintain the identical angular velocity along the second, greater radial distance.
+
+8. The method of claim 5, wherein calculating the differential comprises comparing the returning hexadecimal string from the second pathway against a baseline payload to detect bit-flip corruption and wave-compression degradation.
    a first satellite positioned at a first radial distance;
    a second satellite positioned at a second, greater radial distance;
    a flight telemetry and propulsion system configured to actively maintain both satellites at an identical angular velocity during oscillation around the central planetary body; and
