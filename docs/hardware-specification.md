@@ -1,4 +1,5 @@
 # Hardware Specification: Relativistic Time-Variance Measurement Apparatus
+https://github.com/Revolutionary-Technology-Company/Digital-Signals-in-Hexadecimal-Code/blob/master/src/chips/native/electromechanical/hex_native_bipolar_oscillator.py
 
 ## 1. System Overview
 The following specification details two physical reductions to practice for measuring temporal variance and signal decay relative to the perimeter of an oscillation around a central bipolar axis. Both embodiments force moving particles to share a synchronized temporal execution state while traversing disparate radial perimeters. By comparing the degradation and temporal drift of the resulting signals, the apparatus physically measures the differential in the "experience of time".
