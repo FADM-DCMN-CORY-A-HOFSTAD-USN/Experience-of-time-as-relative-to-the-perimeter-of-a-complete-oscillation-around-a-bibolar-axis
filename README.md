@@ -36,9 +36,9 @@ Unauthorized disclosure, use, or misappropriation of this Confidential Informati
 **ACCEPTANCE:** 
 YOUR CONTINUED ACCESS, VIEWING, OR POSSESSION OF THE FOLLOWING DOCUMENTS AND REPOSITORIES CONSTITUTES YOUR FULL, IRREVOCABLE LEGAL ACCEPTANCE OF THIS AGREEMENT.
 
-Experience of time is relative to perspective of distance traveled by a point within the oscillation of a wave. A point which exists at a short radius within an oscillation will travel a shorter distance or "experience of time" throughout the wave then a point at a long radius will travel during the same oscillation. Time experienced within a vacuum is effected by the compression of waves or "moving particles". Compression of matter reduces the available radius for electrons that rotate around atoms within the substance. Every rotation of an electron around an atom is a single oscillation of a wave. Objects that exist in large orbital paths will experience time as greater in a single orbit than objects in smaller orbits.
-
 # Relativistic Time-Variance and Oscillation Architecture
+
+Experience of time is relative to perspective of distance traveled by a point within the oscillation of a wave. A point which exists at a short radius within an oscillation will travel a shorter distance or "experience of time" throughout the wave then a point at a long radius will travel during the same oscillation. Time experienced within a vacuum is effected by the compression of waves or "moving particles". Compression of matter reduces the available radius for electrons that rotate around atoms within the substance. Every rotation of an electron around an atom is a single oscillation of a wave. Objects that exist in large orbital paths will experience time as greater in a single orbit than objects in smaller orbits.
 
 ## Overview
 This repository contains the engineering specifications, theoretical framework, and native hardware logic for measuring and manipulating the experience of time relative to the perimeter of a complete oscillation around a bipolar axis. 
